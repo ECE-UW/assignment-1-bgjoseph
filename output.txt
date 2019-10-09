@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Marking #6: StudentInfo(repo='assignment-1-bgjoseph', first='Basil Geo', last='Joseph', watiam='bgjoseph', studentid=20812484, email='bgjoseph@uwaterloo.ca')
+=======
+Marking #73: StudentInfo(repo='assignment-1-bgjoseph', first='Basil Geo', last='Joseph', watiam='bgjoseph', studentid=20812484, email='bgjoseph@uwaterloo.ca')
+>>>>>>> 3d4bdae4b91b1456cb3012a85ac556bfeafb3d37
 Mark = 0
 
 Running test 0:	 +20
